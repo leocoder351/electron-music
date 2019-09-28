@@ -1,0 +1,27 @@
+{
+  "name": "electron-music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js --exec 'electron .'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leocoder351/electron-music.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leocoder351/electron-music/issues"
+  },
+  "homepage": "https://github.com/leocoder351/electron-music#readme",
+  "dependencies": {
+    "bootstrap": "4.3.1",
+    "electron": "6.0.10"
+  },
+  "devDependencies": {
+    "nodemon": "1.19.2"
+  }
+}
